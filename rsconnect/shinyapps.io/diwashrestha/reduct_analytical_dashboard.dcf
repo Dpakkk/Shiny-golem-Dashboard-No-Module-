@@ -1,0 +1,12 @@
+name: reduct_analytical_dashboard
+title: reduct_analytical_dashboard
+username:
+account: diwashrestha
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3251599
+bundleId: 3973526
+url: https://diwashrestha.shinyapps.io/reduct_analytical_dashboard/
+when: 1607653842.71183
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,34 @@
+Package: dashboard
+Title: An Amazing Shiny App
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "firstname",
+           family = "lastname",
+           role = c("aut", "cre"),
+           email = "your@email.com")
+Description: What the package does (one paragraph).
+License: What license is it under?
+Imports: 
+    config,
+    golem,
+    shiny,
+    pkgload,
+    dplyr,
+    DT,
+    data.table,
+    ggplot2,
+    plotly,
+    lubridate,
+    janitor,
+    bs4Dash,
+    shinydashboard,
+    dashboard,
+    reshape2,
+    bit64,
+    highcharter,
+    shinymanager,
+    shinythemes,
+    shinybusy
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
